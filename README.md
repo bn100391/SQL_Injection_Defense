@@ -9,7 +9,7 @@ can let the attacker view and change the contents of databases, which can create
 ---  
 
 ##  🛠️ What This Does: 
-**Makes use of prepared statments**
+**Makes Use of Prepared Statments:** <br>
 Prepared statements protect against SQL injection by keeping the SQL code separate from the user input.
 
 Instead of building a query by directly inserting user input into the SQL string (which is risky), a prepared statement
